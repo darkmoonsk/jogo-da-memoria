@@ -1,2 +1,2 @@
-# jogo-da-memoria
-Jogo da memoria feito em html, css e javascript vanilla 
+# Jogo da Memória
+Jogo da memória feito em html, css e javascript vanilla 
